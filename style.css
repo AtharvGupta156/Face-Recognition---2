@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+
+.Heading {
+    width: 70%;
+    border-radius: 15;
+    color: rgb(200, 255, 0);
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+#camera {
+    border: 2px black;
+width: 350px;
+height: 300px;
+}
+
+.name_of_objects,  #result_object_name{
+color: rgb(72, 255, 0);
+}
+
+#custom_name {
+    background-color: black;
+    width: 220px;
+border-width: 8px;
+    border-color: aqua;
+    border-style: double;
+}
